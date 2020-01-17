@@ -26,21 +26,21 @@
 
 1. 异常输入情况
 
-![Exception](./picture/Exception.png)
+![Exception](https://github.com/MichaelRap/SumTwoNumbers/blob/master/picture/Exception.png)
 
 2.输入正常数据进行测试
 
-![case1](./picture/case1.png)
+![case1](https://github.com/MichaelRap/SumTwoNumbers/blob/master/picture/case1.png)
 
-![case2](./picture/case2.png)
+![case2](https://github.com/MichaelRap/SumTwoNumbers/blob/master/picture/case2.png)
 
-![case3](./picture/case3.png)
+![case3](https://github.com/MichaelRap/SumTwoNumbers/blob/master/picture/case3.png)
 
 
 
 ### Github地址：[https://github.com/MichaelRap/SumTwoNumbers](https://github.com/MichaelRap/SumTwoNumbers)
 
-![github](./picture/github.png)
+![github](https://github.com/MichaelRap/SumTwoNumbers/blob/master/picture/github.png)
 
 ## 花费时间：50mins
 
